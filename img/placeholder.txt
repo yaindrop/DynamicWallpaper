@@ -1,0 +1,1 @@
+Place your wallpaper files in this folder. Name them from 1.png to n.png in order.
