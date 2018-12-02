@@ -1,0 +1,12 @@
+body {
+	background-color:#1C1C1C;
+	text-align:center;
+	font-family:Myriad Pro Light;
+	color: silver;
+	background-size: cover;
+    background-position: center top;
+	background-repeat:no-repeat;
+	overflow: hidden;
+	transition: all 2s ease-out;
+	background-image: url('img/8.png')
+}
