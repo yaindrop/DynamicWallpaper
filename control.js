@@ -42,7 +42,7 @@ window.dynamicWPControl = {
 	timeCycle: null, 
 	updateTimer: null,
 	preload: [],
-	imgNo: 8,
+	imgNo: 1,
 
 	// Apply new image with number n
 	applyImg: function(n) {
