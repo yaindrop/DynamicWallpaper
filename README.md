@@ -8,5 +8,6 @@ macOS-style time &amp; location based dynamic wallpaper template for Wallpaper E
 
 ## Usage
 1. Place the wallpaper images in /img folder. Name them from 1.png to n.png in order
-2. Edit the metadatas in control.js: Specify total image numbers and the images for dawn & dusk
-3. Import the folder as a web wallpaper in Wallpaper Engine
+2. Edit the metadatas in control.js: specify total image numbers(imgCount) and image No. for dawn(sunriseImgNo) & dusk(sunsetImgNo)
+3. Copy the total image numbers to the "max" property of the first "customint" entry (which has "text": "Static Image Number") in project.json
+4. Import the folder as a web wallpaper in Wallpaper Engine
